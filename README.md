@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Kushwaha</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="krishnakushwaha07" align="right" height="200px"/>
+<img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="krishnakushwaha07" align="right" height="200"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakushwaha07&show_icons=true&locale=en" alt="krishnakushwaha07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakushwaha07&" alt="krishnakushwaha07" /></p>
+
